@@ -4,44 +4,44 @@
     "datarestored": "Dados armazenados anteriormente recuperados com êxito.",
     "greyuser": "Apenas Seguranças ou superiores podem usar o bot.",
     "bouncer": "O bot não pode mover pessoas na fila de espera quando usado por um segurança.",
-    "online": "/me %%BOTNAME%% v%%VERSION%% bem finíssimo ativado!",
+    "online": "/me %%BOTNAME%% v%%VERSION%% chegou, se comportem!",
 
 
-    "welcome": "Seja bem-vindo(a), @%%NAME%%, leia nossas regras para não fazer nenhuma besteira [link soon] :sparkling_heart:",
-    "welcomeback": "Seja bem-vindo(a) de volta, @%%NAME%% :purple_heart: :purple_heart:",
-    "songknown": "@%%NAME%%, essa música está no histórico, vou pular",
-    "timelimit": "@%%NAME%%, sua música tem duração maior que %%MAXLENGTH%% minutos. Você não pode rodar videos longos assim.",
+    "welcome": "Seja bem-vindo(a), @%%NAME%%, espero que você se divirta aqui na sala. Se comporte, pois o David está de olho. Curta nossa página: https://www.facebook.com/LifeIsStrangeBrasil",
+    "welcomeback": "Seja bem-vindo(a) de volta, @%%NAME%%. Que bom que você voltou, estavamos até pensando em colocar você na lista de desaparecidos junto com a Rachel Amber...",
+    "songknown": "@%%NAME%%, esse vídeo já está no histórico, vou pular.",
+    "timelimit": "@%%NAME%%, esse vídeo tem duração maior que %%MAXLENGTH%% minutos. Você não pode rodar videos longos assim.",
     "permissionownsong": "/me :up: @%%NAME%% tem permissão para tocar música de própria autoria!",
-    "isblacklisted": "/me Essa música está na lista negra %%BLACKLIST%%! Pulando música...",
+    "isblacklisted": "/me Esse vídeo está na lista negra %%BLACKLIST%%, junto com Victoria e Nathan. Pulando...",
 
 
     "isopen": "/me A roleta foi iniciada! Use !join para participar! Você poderá ser movido para cima ou para baixo na fila.",
     "winnerpicked": "/me Um vencedor foi escolhido! @%%NAME%% ganhou a posição %%POSITION%%.",
     
     "ball": "/me A pergunta de %%NAME%% foi: \"%%QUESTION%%\" e a resposta de %%BOTNAME%% é: \"%%RESPONSE%%\"",
-    "notghosting": "[%%NAME1%%] %%NAME2%% não virou fantasma.",
-    "ghosting": "[%%NAME1%%] %%NAME2%% deve ter virado fantasma.",
+    "notghosting": "[%%NAME1%%] %%NAME2%% não virou fantasma que nem a Rachel...",
+    "ghosting": "[%%NAME1%%] %%NAME2%% deve estar em um universo paralelo mais distante que o nosso.",
 
     "alreadyadding": "/me Usuário já está sendo adicionado! Posição desejada alterada para %%POSITION%%.",
     "adding": "/me @%%NAME%% foi adicionado à fila. Posição atual: %%POSITION%%.",
 
 
-    "usernotfound": "/me Usuário não encontrado.",
-    "notdisconnected": "/me @%%NAME%% não saiu enquanto estive frescando aqui.",
+    "usernotfound": "/me Usuário não encontrado, ele deve saber onde Rachel está.",
+    "notdisconnected": "/me @%%NAME%% não saiu, parece até o Warren vigiando o quarto da Max.",
     "noposition": "/me Última posição não reconhecida. A fila de espera precisa ser atualizada pelo menos uma vez para registrar posições.",
     "toolongago": "/me @%%NAME%% desconectou-se a muito tempo: %%TIME%%, não fode",
     "valid": "/me @%%NAME%% desconectou-se %%TIME%% atrás e deve ter posição %%POSITION%%.",
 
 
-    "warning1": "@%%NAME%%, você esteve inativo por %%TIME%%, responda dentro de 2 minutos ou você será removido da fila de espera.",
-    "warning2": "@%%NAME%%, você será removido em breve por inatividade se não responder.",
+    "warning1": "@%%NAME%%, você esteve inativo por %%TIME%%, responda dentro de 2 minutos ou você será removido da fila de espera e também da lista do Vortex Club.",
+    "warning2": "@%%NAME%%, você será removido em breve por inatividade se não responder. Acho que ele está conversando com Rachel onde quer que esteja...",
     "afkremove": "@%%NAME%%, você foi removido por estar inativo por %%TIME%%. Você teve a posição %%POSITION%%. Use o chat pelo menos uma vez em 1 hora se quiser tocar.",
 
 
-    "caps": "@%%NAME%%, desligue seu capslock, por favor!",
-    "askskip": "@%%NAME%%, não peça para pular.",
-    "spam": "/me @%%NAME%%, não faça spam caralho.",
-    "roomadvertising": "@%%NAME%%, não poste link de outras comunidades aqui ou será banido(a)!.",
+    "caps": "@%%NAME%%, desliga o caps, queridinha!",
+    "askskip": "@%%NAME%%, não peça para pular. Kate teve a ideia de pular do telhado no dormitório e você sabe o que aconteceu, né...",
+    "spam": "/me @%%NAME%%, tá parecendo o Warren fazendo spam nas mensagens da Max. Apenas pare.",
+    "roomadvertising": "@%%NAME%%, não poste links de outras comunidades aqui, ou você será expulso do Vortex Club.",
     "adfly": "@%%NAME%%, mude seu autowoot. Nós sugerimos o Origem Woot: http://origem-woot.net/",
 
     "validgiftags": "/me [@%%NAME%%] http://media.giphy.com/media/%%ID%%/giphy.gif [Tags: %%TAGS%%]",
@@ -102,7 +102,7 @@
     "cycleguardtime": "/me [@%%NAME%%] A proteção de ciclo agora é: %%TIME%% minuto(s).",
     "dclookuprank": "/me [@%%NAME%%] Somente Seguranças ou superiores podem usar !dclookup em outros usuários.",
     "emojilist": "/me Emojis: %%LINK%%",
-    "notinwaitlist": "@%%NAME%%, você não está na lista de espera.",
+    "notinwaitlist": "@%%NAME%%, você não está na lista de espera. Tire algumas fotos com a Max enquanto você espera sua vez.",
     "eta": "/me @%%NAME%%, você tocará em aproximadamente %%TIME%% <3.",
     "facebook": "/me (Sem página/grupo no Facebook)",
     "starterhelp": "/me Essa imagem te ajudará a usar e entender o plug.dj: %%LINK%%",
